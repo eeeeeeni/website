@@ -1,0 +1,4 @@
+baseURL = 'https://ethanni.com/'
+languageCode = 'en-us'
+title = 'Ethan Ni Personal Website'
+theme = 'ananke'
