@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethan Ni Personal Website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ethanni.com/</link>
     <description>Recent content on Ethan Ni Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2025 15:14:46 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2025 12:54:43 -0500</lastBuildDate>
+    <atom:link href="https://ethanni.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://ethanni.com/posts/aboutme/</link>
+      <pubDate>Tue, 07 Jan 2025 12:54:43 -0500</pubDate>
+      <guid>https://ethanni.com/posts/aboutme/</guid>
+      <description>&lt;h1 id=&#34;ethan-ni&#34;&gt;Ethan Ni&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;NSF-Ramp Postbaccalaureate Researcher | Evo-devo, genetics&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello! My name is Ethan, I&amp;rsquo;m a post-baccalaureate researcher at the Yuan Lab at the University of Connecticut where I am studying genomics and evo-devo biology. My research is currently focused on using CRISPR-Cas9 genome editing to study how promoter mutations affect floral development and phenotypic diversity. For non-science people, that means that I&amp;rsquo;m editing plant genes to see how they affect growth/what they look like! I am a recent graduate from UMass Amherst, where I majored in Biology and minored in jazz performance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://ethanni.com/posts/my-first-post/</link>
       <pubDate>Mon, 06 Jan 2025 15:14:46 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://ethanni.com/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
